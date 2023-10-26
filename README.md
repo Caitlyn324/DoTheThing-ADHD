@@ -1,3 +1,6 @@
+# DoTheThing-ADHD
+An app to help manage getting things done depsite the challenges brought up with ADHD
+
 # Welcome to your new ignited app!
 
 [![CircleCI](https://circleci.com/gh/infinitered/ignite.svg?style=svg)](https://circleci.com/gh/infinitered/ignite)
